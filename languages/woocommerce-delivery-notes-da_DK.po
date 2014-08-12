@@ -294,7 +294,7 @@ msgstr "Udskriv Følgeseddel"
 #: ../includes/class-wcdn-writepanel.php:207
 #, fuzzy
 msgid "Print Receipt"
-msgstr "Udskriv Faktura"
+msgstr "Udskriv Kvittering"
 
 #: ../includes/class-wcdn-writepanel.php:176
 #, php-format
@@ -327,12 +327,12 @@ msgstr "Udskriv Ordrer"
 
 #: ../includes/class-wcdn-writepanel.php:218
 msgid "Invoice number: "
-msgstr "Faktura"
+msgstr "Faktura nr.:"
 
 #: ../includes/class-wcdn-writepanel.php:219
 #, fuzzy
 msgid "Invoice date: "
-msgstr "Faktura oprettet"
+msgstr "Faktura dato:"
 
 #: ../includes/wcdn-template-functions.php:32
 msgid "Invoice"
@@ -344,23 +344,23 @@ msgstr "Følgeseddel"
 
 #: ../includes/wcdn-template-functions.php:36
 msgid "Receipt"
-msgstr ""
+msgstr "Kvittering"
 
 #: ../includes/wcdn-template-functions.php:38
 msgid "Order"
-msgstr "Udskriv Ordrer"
+msgstr "Ordre"
 
 #: ../includes/wcdn-template-functions.php:215
 msgid "Order Number"
-msgstr "Ordrenr."
+msgstr "Ordre nr.:"
 
 #: ../includes/wcdn-template-functions.php:220
 msgid "Order Date"
-msgstr "Udskriv Ordrer"
+msgstr "Bestillingsdato"
 
 #: ../includes/wcdn-template-functions.php:225
 msgid "Payment Method"
-msgstr "Betalingsmiddel"
+msgstr "Betalingsmetode"
 
 # @ woocommerce-delivery-notes
 #: ../includes/wcdn-template-functions.php:231
@@ -378,7 +378,7 @@ msgstr "SKU:"
 
 #: ../templates/print-order/print-content.php:28
 msgid "Billing Address"
-msgstr "Faktureringsdato"
+msgstr "Faktureringsadresse"
 
 #: ../templates/print-order/print-content.php:31
 #: ../templates/print-order/print-content.php:42
@@ -387,7 +387,7 @@ msgstr "N/A"
 
 #: ../templates/print-order/print-content.php:39
 msgid "Shipping Address"
-msgstr "Leveringsdato"
+msgstr "Leveringsadresse"
 
 #: ../templates/print-order/print-content.php:74
 msgid "Product"
@@ -523,6 +523,6 @@ msgstr "Indstillinger"
 #~ "printing page. Yes, it is that easy :-)."
 #~ msgstr ""
 #~ "Se under <a href=\"%1$s\"> WooCommerce> Ordrer </ a>, og derfra gå til "
-#~ "den enkelte ordre udsigt. På højre side vil du se Udskriv Ordrer meta "
+#~ "den enkelte ordreoversigt. På højre side vil du se Udskriv Ordrer meta "
 #~ "boks. Klik på en af knapperne, og du får en faktura eller følgeseddel "
 #~ "udskrivning side. Ja, det er faktisk så let :-)."
